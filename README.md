@@ -1,5 +1,6 @@
 # Fipsy8266
 This is hastily thrown-together frontend for the libFipsy8266, intended to make it reasonably easy and simple to manage the Fipsy FPGA-board via a web-browser. For now, it's still a WIP and probably very buggy. Actually programming of the FPGA isn't implemented just yet, either.
+![Screenshot of current WIP](/screenshot.jpg)
 
 # Requirements
 * [The great WiFiManager by tzapu](https://github.com/tzapu/WiFiManager)
